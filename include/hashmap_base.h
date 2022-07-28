@@ -7,6 +7,8 @@
 
 #pragma once
 
+#include <stdbool.h>
+
 struct hashmap_entry;
 
 struct hashmap_base {
